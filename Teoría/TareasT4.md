@@ -26,8 +26,8 @@ Segunda red:
 
 * **¿Cuánto se alargaría la duración del proyecto si las tareas C y E requieren el uso exclusivo de un recurso específico? Asuma que nuestro presupuesto no nos permite adquirir varias unidades del recurso necesario.**
 
-Respuesta
+
 
 * **¿Cuál sería la duracion del proyecto si lo tenemos que hacer en solitario? En otras palabras, no podemos contratar a nadie para realizar tareas en paralelo.**
 
-Respuesta
+Sería la suma de la duración de todas las tareas. En la primera red 28 y en la segunda 36.
