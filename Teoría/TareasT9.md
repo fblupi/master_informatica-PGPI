@@ -27,3 +27,9 @@ Entre sus contenidos principales destacan:
 Fuentes:
 * [Segurinfo 2012, *Re-evolución COBIT*](https://www.google.es/url?sa=t&rct=j&q=&esrc=s&source=web&cd=10&cad=rja&uact=8&ved=0ahUKEwjTqebbjMbQAhWHWxoKHWmNAQQQFghSMAk&url=http%3A%2F%2Fwww.isaca.org%2FKnowledge-Center%2Fcobit%2FDocuments%2FCOBIT5-and-InfoSec-Spanish.ppt&usg=AFQjCNHwAr_kWK8qtKWSNOBdySs8j11AeQ&sig2=sPc6w9sRXKQsAKyjfWEWuw)
 * [Universidad Centroccidental "Lisandro Alvarado", *Aplicación de la norma COBIT en el monitoreo de transferencias electrónicas de datos contable-financieros*](https://www.google.es/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjKgI_3jMbQAhXE0hoKHU7DAroQFggfMAA&url=https%3A%2F%2Fdialnet.unirioja.es%2Fdescarga%2Farticulo%2F3832428.pdf&usg=AFQjCNGoqpZqepQP6B_nqr-SmSYpT-T8Fw&sig2=6gYrhdWLpY-1YcnJqoN6-w)
+
+## Ejercicio 2
+
+### Buscar una oferta de trabajo relacionada con la calidad del software
+
+[Quality (QA) Engineer/Tester](https://www.infojobs.net/alcala-de-henares/quality-qa-engineer-tester/of-ic238aa6d814989804d37cd54f33933)
