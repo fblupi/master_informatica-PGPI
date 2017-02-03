@@ -41,3 +41,13 @@ Repositorio de la asignatura Planificación y Gestión de Proyectos Informático
 * Aida Jiménez (RTI)
 * Miguel Hernández (PerkinElmer)
 * Juan Carlos Álvarez (Curtiss-Wright Avionics & Electronics)
+
+## Prácticas
+
+* [Práctica 1: Propuesta de proyecto](https://github.com/fblupi/master_informatica-PGPI/tree/master/P1)
+* [Práctica 2-3: Planificación y estimación](https://github.com/fblupi/master_informatica-PGPI/tree/master/P2y3)
+* [Práctica 4: Presupuestos](https://github.com/fblupi/master_informatica-PGPI/tree/master/P4)
+* [Práctica 5-6: Peopleware y gestión de riesgos](https://github.com/fblupi/master_informatica-PGPI/tree/master/P5y6)
+* [Práctica 7-8: Calidad y herramientas](https://github.com/fblupi/master_informatica-PGPI/tree/master/P7y8)
+* [Práctica A: Análisis, diseño y desipligue en una red de campus](https://github.com/fblupi/master_informatica-PGPI/tree/master/PA)
+* [Práctica 9: Retrospectiva](https://github.com/fblupi/master_informatica-PGPI/tree/master/P9)
