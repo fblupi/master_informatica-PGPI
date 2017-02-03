@@ -29,3 +29,15 @@ Repositorio de la asignatura Planificación y Gestión de Proyectos Informático
   * [Tarea 2](https://github.com/fblupi/master_informatica-PGPI/blob/master/Teor%C3%ADa/TareasT11_2.md)
 * Tema 12: Diseño, planificación y despliegue de redes
   * [Tarea](https://github.com/fblupi/master_informatica-PGPI/blob/master/Teor%C3%ADa/TareasT12.md)
+
+## Seminarios
+
+* María Bermúdez
+ * [Resumen charla](https://github.com/fblupi/master_informatica-PGPI/blob/master/Seminarios/maria_bermudez.md)
+* Álvaro Fernández y Carlos Rodríguez (Everyware Technologies)
+ * [Resumen charla](https://github.com/fblupi/master_informatica-PGPI/blob/master/Seminarios/everyware.md)
+* Stan Schneider (RTI)
+ * [Resumen charla](https://github.com/fblupi/master_informatica-PGPI/blob/master/Seminarios/schneider.md)
+* Aida Jiménez (RTI)
+* Miguel Hernández (PerkinElmer)
+* Juan Carlos Álvarez (Curtiss-Wright Avionics & Electronics)
