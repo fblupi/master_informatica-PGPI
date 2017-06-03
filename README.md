@@ -33,11 +33,11 @@ Repositorio de la asignatura Planificación y Gestión de Proyectos Informático
 ## Seminarios
 
 * María Bermúdez
- * [Resumen charla](https://github.com/fblupi/master_informatica-PGPI/blob/master/Seminarios/maria_bermudez.md)
+  * [Resumen charla](https://github.com/fblupi/master_informatica-PGPI/blob/master/Seminarios/maria_bermudez.md)
 * Álvaro Fernández y Carlos Rodríguez (Everyware Technologies)
- * [Resumen charla](https://github.com/fblupi/master_informatica-PGPI/blob/master/Seminarios/everyware.md)
+  * [Resumen charla](https://github.com/fblupi/master_informatica-PGPI/blob/master/Seminarios/everyware.md)
 * Stan Schneider (RTI)
- * [Resumen charla](https://github.com/fblupi/master_informatica-PGPI/blob/master/Seminarios/schneider.md)
+  * [Resumen charla](https://github.com/fblupi/master_informatica-PGPI/blob/master/Seminarios/schneider.md)
 * Aida Jiménez (RTI)
 * Miguel Hernández (PerkinElmer)
 * Juan Carlos Álvarez (Curtiss-Wright Avionics & Electronics)
